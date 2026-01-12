@@ -1,0 +1,2 @@
+
+print(sorted(['100px','20px','3px'],key=lambda x:int(x[:-2])))
